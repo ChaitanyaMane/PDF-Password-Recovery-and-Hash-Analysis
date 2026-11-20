@@ -2,8 +2,10 @@
 
 ## 👨‍💻 About Me
 
-**Name:** Chaitanya Mane 
+**Name:** Chaitanya Mane
+
 **Program:** NetworkWalks Cybersecurity Internship
+
 **Focus:** Cybersecurity, Ethical Hacking, Networking, and Security Testing
 
 ## 📌 Project Information
